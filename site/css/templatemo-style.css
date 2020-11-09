@@ -666,16 +666,16 @@ https://templatemo.com/tm-516-known
     margin: 10px 0;
   }
 
-  #contact-form input {
+  #contact-form a {
     height: 50px;
   }
 
-  #contact-form input[type='submit'] {
+  #contact-form a {
     border-radius: 50px;
     border: 1px solid transparent;
   }
 
-  #contact-form input[type='submit']:hover {
+  #contact-form a:hover {
     background: transparent;
     border-color: #ffffff;
     color: #ffffff;
